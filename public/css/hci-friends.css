@@ -12,3 +12,9 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+.imagesNames{
+
+	max-width: 300px;
+	max-height:  600px;
+}
